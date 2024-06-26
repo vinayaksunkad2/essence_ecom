@@ -1,0 +1,12 @@
+.active , .added{
+    color:red !important;
+}
+.product-remove{
+    cursor: pointer;
+}
+html {
+    scroll-behavior: smooth !important;
+}
+.d_cls{
+    display:none !important;
+}
